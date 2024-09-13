@@ -11,12 +11,12 @@ const perguntas = [
         alternativas: [
             {
                 texto: "voce pode estar adotando um animalzinho.",
-                afirmacao: "VOCẼ éuma pessoa com um bom coração, e gosta muito de animais."
+                afirmacao: "Você é uma pessoa com um bom coração, e gosta muito de animais."
 
             },
             {
                 texto: "abrigo de animais.",
-                afirmacao: "afirmacao"
+                afirmacao: "Adotar um animal de abrigo é dar uma nova chance de vida. ofercendo amor e cuidado"
             }
 
         ]
@@ -26,11 +26,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Escolha espécies frutíferas adequadas á sua região, prepare bem o solo e plante em áreas com boa luz solar.",
-                afirmacao: ""
+                afirmacao: "Quando você escolhe espécies frutíferas para plantar, é investir em sustentabilidade"
             },
             {
                 texto: "Escolher lugares estratégicos onde podemos aproveitar ao máximo os benefícios que as árvores tem a oferecer. ",
-                afirmacao: "afirmacao"
+                afirmacao: "você é uma pessoa analitica."
             }
         ]
     },
@@ -40,11 +40,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "eu quero deixar um legado!",
-                afirmacao: " afirmacao"
+                afirmacao: "Deixar um legado é algo que você constroi ao longodo tempo"
             },
             {
                 texto: "eu não ligo para a historia, oque importa é o agora, e o futuro!",
-                afirmacao: "afirmacao"
+                afirmacao: "Seu foco esta no momento presente nas decisões e experiencias"
             }
 
         ]
